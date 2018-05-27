@@ -12,7 +12,7 @@ $(function(){
 			.end()
 			.appendTo('.ad');
 		console.log('rotate');
-	}, 4000);
+	}, 10000);
 	
 });
 
