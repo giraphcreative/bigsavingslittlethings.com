@@ -11,7 +11,6 @@ $(function(){
 			.show()
 			.end()
 			.appendTo('.ad');
-		console.log('rotate');
 	}, 10000);
 	
 });
